@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+![alt text](https://raw.githubusercontent.com/htetwaiyan/blog_app/main/Untitled-1.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
